@@ -1,0 +1,4 @@
+def sumnum(*args):
+ print(args[4])
+ return sum(args)
+print(sumnum(1,2,3,4,194,7,8,9))    
